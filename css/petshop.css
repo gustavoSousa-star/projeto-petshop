@@ -110,3 +110,31 @@ iframe{
     cursor: pointer;
     
 }
+.footer h3{
+    background-image: url(../img/patinha-preta.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    padding-right: 30px;
+    margin-right: 10px;
+    display:flex;
+    justify-content: center;
+    
+    
+}
+footer{
+    background-image: url(../img/fundo-topo.jpg);
+    
+}
+footer li{
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    justify-content: space-between;    
+    display: flex;
+
+
+}
+footer ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
